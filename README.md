@@ -1,6 +1,6 @@
 # Stress Level Prediction
 
-This project is a web application that predicts stress levels based on various input factors. It uses a machine learning model to make predictions and provides a user-friendly interface for input and result display.
+Stress level prediction analyzes physiological and behavioral data using AI to assess emotional strain. It leverages metrics like heart rate, sleep patterns, and activity levels for real-time insights. Accurate predictions help in early intervention and stress management.
 
 ## Features
 
