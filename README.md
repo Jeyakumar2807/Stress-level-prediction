@@ -62,10 +62,3 @@ Stress level prediction analyzes physiological and behavioral data using AI to a
 - Incorporate additional machine learning models for comparison
 - Develop a feature to track stress levels over time
 
-## Contributing
-
-Contributions to improve the project are welcome. Please feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
